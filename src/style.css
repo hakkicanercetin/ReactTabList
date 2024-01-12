@@ -1,0 +1,20 @@
+.active
+{
+    background-color: rgb(97, 97, 97);
+    color: white;
+}
+.tabs{
+    background-color: rgb(241, 241, 241);
+    border: 1px solid grey;
+}
+.tabs div nav button
+{
+    padding: 10px;
+    border: none;
+    font-size: 1.5rem;
+}
+.cities
+{
+    padding: 1rem;
+    background-color: #fff;
+}
